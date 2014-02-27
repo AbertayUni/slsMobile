@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pages>	
+	<page>
+		<about title="About SLS">
+			<!-- <pageImage>about-main</pageImage> -->
+			<pageBody><p>Social Learning Space @ Abertay provides new students and students coming from college with resources and information for coming to university.</p><p>You will find various SLS projects below, free software and links to online resources on our Facebook Page and updates on events and information via our Twitter feed.</p></pageBody>
+		</about>
+	</page>
+	<page>
+		<projects title="SLS Projects">
+			<project>
+				<name>Access2</name>
+				<projectImage>access2.png</projectImage>
+				<description>Access2 provides online refresher courses aimed at candidates for direct entry as well as registered students.</description>
+				<links>http://sociallearningspace.abertay.ac.uk/access/</links>
+			</project>
+			<project>
+				<name>SLS Board</name>
+				<projectImage>board.png</projectImage>
+				<description>The SLS board is a notice board where students can post notifications and communicate with each other.</description>
+				<links>http://sociallearningspace.abertay.ac.uk/board/index.php</links>
+			</project>
+			<project>
+				<name>Graduate Attributes Wizard</name>
+				<projectImage>ga.png</projectImage>
+				<description>The Graduate Attributes Wizard is a tool that makes it easy for you to create your own Graduate Attribute summary.</description>
+				<links>http://sociallearningspace.abertay.ac.uk/graduateattributes/index.cfm</links>
+			</project>
+			<project>
+				<name>EduTweet</name>
+				<projectImage>edutweet.png</projectImage>
+				<description>EduTweet is an educational search engine that uses Twitter.</description>
+				<links>http://sociallearningspace.abertay.ac.uk/edutweet/start.php</links>
+			</project>
+			<project>
+				<name>PeerQuiz</name>
+				<projectImage>peerquiz.png</projectImage>
+				<description>Easily make and share quizzes.</description>
+				<links>http://sociallearningspace.abertay.ac.uk/peerquiz/</links>
+			</project>
+			<project>
+				<name>AcademicScreenShare</name>
+				<projectImage>screenshare.png</projectImage>
+				<description>The intention of the academic screen share project is to help you select web based resources that can support small group tasks within a large class setting.</description>
+				<links>http://sociallearningspace.abertay.ac.uk/AcademicScreenShare/</links>
+			</project>
+		</projects>
+	</page>
+	<page>
+		<video title="SLS Video">
+			<channel>abertayTV</channel>
+			<maxToShow>5</maxToShow>
+		</video>		
+	</page>
+	<page>
+		<twitter title="Tweets by @AbertaySLS">
+			<account widgetId="379991304676982785">AbertaySLS</account>
+			<hashtag widgetId="407876709866688512">abertay</hashtag>
+		</twitter>
+	</page>
+	<page>
+		<hotlinks title="SLS Links">
+			<hotlink>
+				<name>FileZilla</name>
+				<linkImage>filezilla-logo.png</linkImage>
+				<description>FileZilla Client is a fast and reliable cross-platform FTP, FTPS and SFTP client with lots of useful features and an intuitive graphical user interface.</description>
+				<weblink>https://filezilla-project.org/</weblink>
+			</hotlink>
+			<hotlink>
+				<name>Brackets</name>
+				<linkImage>brackets_icon.png</linkImage>
+				<description>Brackets is an open source code editor for web designers and front-end developers.</description>
+				<weblink>http://brackets.io/</weblink>
+			</hotlink>
+			<hotlink>
+				<name>jEdit</name>
+				<linkImage>jedit.png</linkImage>
+				<description>jEdit is a mature programmer's text editor with hundreds (counting the time developing plugins) of person-years of development behind it.</description>
+				<weblink>http://www.jedit.org/</weblink>
+			</hotlink>
+			<hotlink>
+				<name>Open Office</name>
+				<linkImage>open-office.png</linkImage>
+				<description>Apache OpenOffice is the leading open-source office software suite for word processing, spreadsheets, presentations, graphics, databases and more.</description>
+				<weblink>http://www.openoffice.org/</weblink>
+			</hotlink>
+			<hotlink>
+				<name>DropBox</name>
+				<linkImage>dropbox.png</linkImage>
+				<description>DropBox is an online file storage service which can also be synced to your home computer and mobile devices.</description>
+				<weblink>https://www.dropbox.com</weblink>
+			</hotlink>
+			<hotlink>
+				<name>GIMP</name>
+				<linkImage>gimp.png</linkImage>
+				<description>GIMP is the GNU Image Manipulation Program. It is a freely distributed piece of software for such tasks as photo retouching, image composition and image authoring. It works on many operating systems, in many languages.</description>
+				<weblink>http://www.gimp.org/</weblink>
+			</hotlink>
+			<hotlink>
+				<name>Inkscape</name>
+				<linkImage>inkscape.png</linkImage>
+				<description>An Open Source vector graphics editor, with capabilities similar to Illustrator, CorelDraw, or Xara X, using the W3C standard Scalable Vector Graphics (SVG) file format.</description>
+				<weblink>http://inkscape.org/</weblink>
+			</hotlink>
+			<hotlink>
+				<name>MySQL Workbench</name>
+				<linkImage>mysql.png</linkImage>
+				<description>MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more. MySQL Workbench is available on Windows, Linux and Mac OS X.</description>
+				<weblink>http://www.mysql.com/products/workbench/</weblink>
+			</hotlink>
+		</hotlinks>
+	</page>
+	<page>
+		<contact title="SLS Contact">
+			<name>Dawn Carmichael</name>
+			<position>Lecturer Computing</position>
+			<school>DBS</school>
+			<address>
+				<company>University of Abertay Dundee</company>
+				<building>Kydd Building</building>
+				<street>Bell Street</street>
+				<city>Dundee</city>
+				<postcode>DD1 1HG</postcode>
+				<country>Scotland</country>
+			</address>
+			<phone>+44 (0)1382 308000</phone>
+			<email>secam@abertay.ac.uk</email>
+			<formEmail>jpdsimpkins@hotmail.com</formEmail>
+		</contact>
+	</page>
+	<page>
+		<home title="SLS Home">	
+			<homeImage>logo_large.png</homeImage>
+			<homeImageAlt>This is an image</homeImageAlt>	
+		</home>
+	</page>			
+	<page>
+		<thankyou title="Thank You SLS">			
+			<pageBody><p>Thank you for your email.</p><p>You will be contacted as soon as possible regarding your enquiry.</p></pageBody>
+		</thankyou>
+	</page>	
+	<page>
+		<error title="Error">
+			<pageBody><p>Sorry, there was an error. Please try again.</p><p>If problems persist, please contact the creators of the app.</p></pageBody>
+		</error>
+	</page>
+</pages>
